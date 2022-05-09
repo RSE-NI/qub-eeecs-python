@@ -1,1 +1,2 @@
-# qub-eeecs-python
+# QUB EEECS Python Course
+
