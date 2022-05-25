@@ -32,7 +32,10 @@ To attend this course successfully, you must have the following installed by the
 
 -Install with a Docker image
 
-`docker pull continuumio/anaconda3`
+`docker pull continuumio/anaconda3`  
+
+Followed by:
+
 `docker run -i -t -p 8888:8888 continuumio/anaconda3 /bin/bash -c "\
     conda install jupyter -y --quiet && \
     mkdir -p /opt/notebooks && \
