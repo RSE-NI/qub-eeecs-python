@@ -1,5 +1,7 @@
 # QUB EEECS Python Course
 
+## Agenda
+
 | **Time** | **Module**                                         | **Instructor** |
 |----------|----------------------------------------------------|----------------|
 |          | _Day one_                                          |                |
@@ -24,5 +26,17 @@
 |          | 15. Getting a publication for your code            | DC             |
 
 
+## Pre-requisites
 
+To attend this course successfully, you must have the following installed by the end of the 'Environment set up clinic' on day one.  You are *strongly* advised to have this working on your own machine in advance, with all checks completed.  If you run into issues, you can avail of help at the set-up clinic.
+
+-Install with a Docker image
+
+`docker pull continuumio/anaconda3`
+`docker run -i -t -p 8888:8888 continuumio/anaconda3 /bin/bash -c "\
+    conda install jupyter -y --quiet && \
+    mkdir -p /opt/notebooks && \
+    jupyter lab --ip='*' --port=8888 \
+    --no-browser --allow-root"
+`
 
