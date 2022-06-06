@@ -1,0 +1,13 @@
+KEY POINTS FROM SCRIPTS
+=======================
+
+* Save commands in files (scripts) for re-use
+
+Commands
+--------
+* bash/sh/zsh   run the commands saved in a file
+
+Variables
+---------
+* $@        all of a shell scripts arguments        
+* $1, $2    argument 1, 2 etc.  

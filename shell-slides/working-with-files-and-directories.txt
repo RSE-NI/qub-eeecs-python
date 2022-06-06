@@ -1,0 +1,18 @@
+KEY POINTS FROM WORKING WITH FILES AND DIRECTORIES
+==================================================
+
+Commands
+--------
+* cp        copies a file
+* mkdir     creates a new directory
+* mv        moves (renames) a file or directory
+* rm        removes (deletes a file)
+
+Special symbols
+---------------
+- * matches zero or more characters (e.g. *.txt)
+- ? matches a single character (e.g. ?.txt)
+
+Warning
+-------
+THERE'S NO RECYCLE BIN IN THE SHELL!

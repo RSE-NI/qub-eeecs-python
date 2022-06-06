@@ -1,0 +1,8 @@
+KEY POINTS FROM EXPLORING HISTORY
+=================================
+
+Commands
+--------
+* git diff          display differences between commits
+* git checkout      recovers old versions of files
+* git log           view commit history

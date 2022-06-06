@@ -1,0 +1,5 @@
+KEY POINTS FROM CONFLICTS
+=========================
+
+* Conflicts occur when multiple people change the same thing
+* Git does not automatically resolve these, but highlights them

@@ -1,0 +1,10 @@
+KEY POINTS FROM TRACKING CHANGES
+================================
+
+Commands
+--------
+* git status        show the status of repository
+* git add           put files in the staging area
+* git commit        save the staged content
+
+* USE USEFUL COMMIT MESSAGES!

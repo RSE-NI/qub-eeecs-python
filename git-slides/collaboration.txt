@@ -1,0 +1,6 @@
+KEY POINTS FROM COLLABORATION
+=============================
+
+Commands
+--------
+* git clone     copies a remote repository to create a local (connected) repo

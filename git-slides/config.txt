@@ -1,0 +1,8 @@
+KEY POINTS FROM SETTING UP GIT
+==============================
+
+Commands
+--------
+* git config --list         show the current config options
+* git config --global       change preferences globally (whole machine)
+* git help                  get list of available commands

@@ -1,0 +1,17 @@
+KEY POINTS FROM PIPES AND FILTERS
+=================================
+
+Commands
+--------
+* wc        counts lines, words and characters
+* cat       display contents of a file
+* sort      sort the inputs (e.g. alphabetically)
+* head      display the first ten lines of a file
+* tail     display the last ten lines of a file
+
+Pipes
+-----
+* command > file        redirects output into file (overwriting existing contents)
+* command >> file       appends output to file
+* command1 | command2   output of command1 is input for command2
+

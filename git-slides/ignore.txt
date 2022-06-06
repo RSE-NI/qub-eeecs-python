@@ -1,0 +1,5 @@
+KEY POINTS FROM IGNORING THINGS
+===============================
+
+* Not everything should be tracked!
+* The .gitignore file tells Git what files to ignore
