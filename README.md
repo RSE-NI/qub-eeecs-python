@@ -32,7 +32,7 @@ To attend this course successfully, you must have the following installed by the
 
 ### Install Anaconda
 
-Go to `https://www.anaconda.com` and download the Anaconda python distro.  This should automatically detect your operating system, but if not go to `https://www.anaconda.com/products/distribution#Downloads` and select the correct one.  Run the installer, pour yourself a coffee and put your feet up - this can take up to 20 mins or so. For Windows, MAKE SURE TO CHECK "ADD ANACONDA TO MY PATH ENVIRONMENT VARIABLE".
+Go to https://www.anaconda.com and download the Anaconda python distro.  This should automatically detect your operating system, but if not go to https://www.anaconda.com/products/distribution#Downloads and select the correct one.  Run the installer, pour yourself a coffee and put your feet up - this can take up to 20 mins or so. For Windows, MAKE SURE TO CHECK "ADD ANACONDA TO MY PATH ENVIRONMENT VARIABLE".
 
 Once installed, run the application and it may ask you to update to 2.2.0, you can choose to go ahead and update (takes 2-3 mins) or not.  If you do, restart Anaconda. Verify that you can see the following screen, or similar.  Click Jupyter Lab, and ensure it runs ok on your machine.
 
@@ -43,7 +43,7 @@ Please go to https://carpentries.github.io/workshop-template/#shell and follow t
 
 ### Installation with a Docker image
 
-If you have installed directly to your machine, you don't have to worry about this section.  This is ONLY if you wish to run the necessary tools under a container environment.
+If you have installed directly to your machine, you don't have to worry about this section.  This is ONLY if you wish to run the necessary tools under a container environment and have Docker installed (https://docs.docker.com/get-docker/).
 
 Fire up a terminal and enter `docker pull continuumio/anaconda3`  
 
@@ -55,4 +55,14 @@ Followed by:
     jupyter lab  --notebook-dir=/opt/notebooks --ip='*' --port=8888 \
     --no-browser --allow-root"
 `
+
+### Checking your installation
+
+#### Windows: 
+Open Git Bash and type `git --version` at the `$` prompt.  You should see something like `git version 2.36.1.windows.1`.  Then type `python -m this` and you should get some text output.
+#### Linux
+Open a terminal and type `git --version` at the `$` prompt.  You should see something like `git version 2.36.1.windows.1`.  Then type `python -m this` and you should get some text output.
+#### Mac
+Open a terminal and type `git --version` at the `$` prompt.  You should see something like `git version 2.36.1.windows.1`.  Then type `python -m this` and you should get some text output.
+
 
