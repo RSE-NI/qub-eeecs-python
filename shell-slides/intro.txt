@@ -9,4 +9,3 @@ WHY CARE ABOUT USING THE SHELL?
 Online notes (follow along)
 ---------------------------
 https://swcarpentry.github.io/shell-novice/
-https://swcarpentry.github.io/git-novice/

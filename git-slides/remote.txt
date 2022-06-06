@@ -1,0 +1,12 @@
+KEY POINTS FROM REMOTES IN GITHUB
+=================================
+
+* We can connect a local repo to one or more remote repos
+* WHY? 
+   - Central point of reference
+   - Allows collaboration
+
+Commands
+--------
+* git push      copy changes from local to remote
+* git pull      copy changes from remote to local

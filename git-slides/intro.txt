@@ -1,0 +1,9 @@
+WHY USE VERSION CONTROL
+
+* Avoid complicated file duplication
+   ./phd101212s.png
+* Allow others to contribute to your work
+
+Online Notes (follow along)
+---------------------------
+https://swcarpentry.github.io/git-novice/

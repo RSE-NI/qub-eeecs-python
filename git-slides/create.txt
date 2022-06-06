@@ -1,0 +1,8 @@
+KEY POINTS FROM CREATING A GIT REPOSITORY
+=========================================
+
+Commands
+--------
+* git init      initialise a repository
+
+* git stores all data in the .git directory (hidden)
