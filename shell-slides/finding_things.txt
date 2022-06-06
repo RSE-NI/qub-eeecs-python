@@ -1,0 +1,8 @@
+KEY POINTS FROM FINDING THINGS
+==============================
+
+Commands
+--------
+* find      find files with properties/match patterns
+* grep      find lines within files which match patterns
+* man       display the man (manual) pages

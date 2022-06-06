@@ -1,0 +1,12 @@
+WHY CARE ABOUT USING THE SHELL?
+===============================
+
+* EFFICIENCY
+* ACCURACY
+* REPEATABILITY
+* REMOTE MACHINES
+
+Online notes (follow along)
+---------------------------
+https://swcarpentry.github.io/shell-novice/
+https://swcarpentry.github.io/git-novice/

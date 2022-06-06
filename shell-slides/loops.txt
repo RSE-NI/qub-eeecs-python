@@ -1,0 +1,17 @@
+KEY POINTS FROM LOOPS
+=====================
+
+Commands
+--------
+* for      repeat commands once for every thing in a list e.g.
+
+   for file in * 
+   do 
+      cat $file   
+   done
+
+Notes
+-----
+* use $name to expand the variable (get its value)
+* Don't use spaces, quotes or special characters (e.g. *,?) in filenames
+* Use consistent filenames to make looping easier

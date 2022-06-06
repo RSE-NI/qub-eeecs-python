@@ -1,0 +1,21 @@
+KEY POINTS FROM NAVIGATING FILES AND DIRECTORIES
+================================================
+
+Commands
+--------
+* pwd       shows the current directory 
+* ls        lists directory contents
+* cd        changes the current directory
+
+Special symbols
+---------------
+* ~ the home directory
+* / the root directory
+* / separator between directories
+* . the current directory
+* .. the directory above the current directory
+
+Options and arguments
+---------------------
+* many commands take options which begin with a single dash '-', e.g. ls -a
+* many commands operate on a specific argument e.g. ls ~/Desktop
