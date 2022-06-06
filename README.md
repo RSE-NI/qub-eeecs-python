@@ -28,11 +28,24 @@
 
 ## Pre-requisites
 
-To attend this course successfully, you must have the following installed by the end of the 'Environment set up clinic' on day one.  You are *strongly* advised to have this working on your own machine in advance, with all checks completed.  If you run into issues, you can avail of help at the set-up clinic.
+To attend this course successfully, you must have the following installed by the end of the 'Environment set up clinic' on day one.  You are *strongly* advised to have this working on your own machine in advance, with all checks completed.  If you do not want to install directly to your machine, and you're comfortable with Docker or containers, you can go to the Installation with a Docker image section and follow the instructions.  If you run into issues, you can avail of help at the set-up clinic.
 
--Install with a Docker image
+### Install Anaconda
 
-`docker pull continuumio/anaconda3`  
+Go to `https://www.anaconda.com` and download the Anaconda python distro.  This should automatically detect your operating system, but if not go to `https://www.anaconda.com/products/distribution#Downloads` and select the correct one.  Run the installer, pour yourself a coffee and put your feet up - this can take up to 20 mins or so. For Windows, MAKE SURE TO CHECK "ADD ANACONDA TO MY PATH ENVIRONMENT VARIABLE".
+
+Once installed, run the application and it may ask you to update to 2.2.0, you can choose to go ahead and update (takes 2-3 mins) or not.  If you do, restart Anaconda. Verify that you can see the following screen, or similar.  Click Jupyter Lab, and ensure it runs ok on your machine.
+
+### Install Bash (and Git)
+
+Please go to https://carpentries.github.io/workshop-template/#shell and follow the installation instructions carefully for your OS, selecting the options outlined. MacOS and Linux users will likely have these already.  However, you may not have Git installed.  Go to https://carpentries.github.io/workshop-template/#git and follow the verification or installation instructions.
+
+
+### Installation with a Docker image
+
+If you have installed directly to your machine, you don't have to worry about this section.  This is ONLY if you wish to run the necessary tools under a container environment.
+
+Fire up a terminal and enter `docker pull continuumio/anaconda3`  
 
 Followed by:
 
