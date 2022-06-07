@@ -37,7 +37,7 @@ To attend this course successfully, you must have the following installed by the
 
 Go to https://www.anaconda.com and download the Anaconda python distro.  This should automatically detect your operating system, but if not go to https://www.anaconda.com/products/distribution#Downloads and select the correct one.  Run the installer, pour yourself a coffee and put your feet up - this can take up to 20 mins or so. For Windows, MAKE SURE TO CHECK "ADD ANACONDA TO MY PATH ENVIRONMENT VARIABLE".
 
-Once installed, run the application and it may ask you to update to 2.2.0, you can choose to go ahead and update (takes 2-3 mins) or not.  If you do, restart Anaconda. Verify that you can see the following screen, or similar.  Click Jupyter Lab, and ensure it runs ok on your machine.
+Once installed, run the application and it may ask you to update to 2.2.0, you can choose to go ahead and update (takes 2-3 mins) or not.  If you do, restart Anaconda. Verify that you can see the main Anaconda screen.  Click Jupyter Lab, and ensure it runs ok on your machine.
 
 ### Install Bash (and Git)
 
@@ -52,12 +52,7 @@ Fire up a terminal and enter `docker pull continuumio/anaconda3`
 
 Followed by:
 
-`docker run -i -t -p 8888:8888 continuumio/anaconda3 /bin/bash -c "\
-    conda install jupyter -y --quiet && \
-    mkdir -p /opt/notebooks && \
-    jupyter lab  --notebook-dir=/opt/notebooks --ip='*' --port=8888 \
-    --no-browser --allow-root"
-`
+`docker run -i -t -p 8888:8888 continuumio/anaconda3 /bin/bash -c "conda install jupyter -y --quiet && mkdir -p /opt/notebooks && jupyter lab  --notebook-dir=/opt/notebooks --ip='*' --port=8888 --no-browser --allow-root"`
 
 ### Checking your installation
 
