@@ -2,28 +2,31 @@
 
 ## Agenda
 
-| **Time** | **Module**                                         | **Instructor** |
-|----------|----------------------------------------------------|----------------|
-|          | _Day one_                                          |                |
-|          | 1. Environment set up clinic                       | DC / AB        |
-|          | 2. Unix shell 101                                  | AB             |
-|          | 3. Command-line programs                           | AB             |
-|          | 4. Python fundamentals                             | AB             |
-|          | 5. Structuring your code                           | DC             |
-|          |                                                    |                |
-|          | _Day Two_                                          |                |
-|          | 6. Loading and analyzing data from various sources | DC             |
-|          | 7. Visualizing data                                | DC             |
-|          | 8. Errors and exceptions                           | DC             |
-|          | 9. Testing your code                               | AB             |
-|          |                                                    |                |
-|          | _Day Three_                                        |                |
-|          | 10. Version Control with Git                       | AB             |
-|          | 11. Creating a repository & tracking changes       | AB             |
-|          | 12. Collaborating with others                      | DC             |
-|          | 13. Allowing others to run your code               | DC             |
-|          | 14. Sustainable & maintainable code.               | DC             |
-|          | 15. Getting a publication for your code            | DC             |
+| **Time** |  **Module**                                         | **Instructor** |
+|----------|-----------------------------------------------------|----------------|
+|          |  _Day one_                                          |                |
+| 09.00    | _0. Environment set up clinic_                      | DC / AB        |
+| 10.00    |  1. Unix shell 101                                  | AB             |
+| 11.00    |  2. Command-line programs                           | AB             |
+| 12.30    |  _Lunch_                                            |                |
+| 14.00    |  3. Python fundamentals                             | AB             |
+| 14.45    |  4. Structuring your code                           | DC             |
+|          |                                                     |                |
+|          |  _Day Two_                                          |                |
+| 10.00    |  5. Loading and analyzing data from various sources | DC             |
+| 11.00    |  6. Visualizing data                                | DC             |
+| 12.30    |  _Lunch_
+| 14.00    |  7. Errors and exceptions                           | DC             |
+| 14.45    |  8. Testing your code                               | AB             |
+|          |                                                     |                |
+|          |  _Day Three_                                        |                |
+| 10.00    |  9. Version Control with Git                        | AB             |
+| 10.30    |  10. Creating a repository & tracking changes       | AB             |
+| 11.30    |  11. Collaborating with others                      | DC             |
+| 12.30    |  _Lunch_
+| 14.00    |  12. Allowing others to run your code               | DC             |
+| 14.30    |  13. Sustainable & maintainable code.               | DC             |
+| 15.00    |  14. Getting a publication for your code            | DC             |
 
 
 ## Pre-requisites
