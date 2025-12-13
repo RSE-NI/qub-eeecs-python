@@ -1,15 +1,14 @@
 # QUB EEECS Python Course
-
 ## Agenda
 
 | **Time** |  **Module**                                         | **Instructor** |
 |----------|-----------------------------------------------------|----------------|
 |          |  _Day one_                                          |                |
-| 09.00    | _0. Environment set up clinic_                      | DC / AB        |
-| 10.00    |  1. Unix shell 101                                  | AB             |
-| 11.00    |  2. Command-line programs                           | AB             |
+| 09.00    | _0. Environment set up clinic_                      | DC / RB        |
+| 10.00    |  1. Unix shell 101                                  | RB             |
+| 11.00    |  2. Command-line programs                           | RB             |
 | 12.30    |  _Lunch_                                            |                |
-| 14.00    |  3. Python fundamentals                             | AB             |
+| 14.00    |  3. Python fundamentals                             | RB             |
 | 14.45    |  4. Structuring your code                           | DC             |
 |          |                                                     |                |
 |          |  _Day Two_                                          |                |
@@ -17,11 +16,11 @@
 | 11.00    |  6. Visualizing data                                | DC             |
 | 12.30    |  _Lunch_
 | 14.00    |  7. Errors and exceptions                           | DC             |
-| 14.45    |  8. Testing your code                               | AB             |
+| 14.45    |  8. Testing your code                               | RB             |
 |          |                                                     |                |
 |          |  _Day Three_                                        |                |
-| 10.00    |  9. Version Control with Git                        | AB             |
-| 10.30    |  10. Creating a repository & tracking changes       | AB             |
+| 10.00    |  9. Version Control with Git                        | RB             |
+| 10.30    |  10. Creating a repository & tracking changes       | RB             |
 | 11.30    |  11. Collaborating with others                      | DC             |
 | 12.30    |  _Lunch_
 | 14.00    |  12. Allowing others to run your code               | DC             |
