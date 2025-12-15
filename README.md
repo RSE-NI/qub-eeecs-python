@@ -8,7 +8,7 @@
 | 10.00    |  1. Unix shell 101                                  | RB             |
 | 11.00    |  2. Command-line programs                           | RB             |
 | 12.30    |  _Lunch_                                            |                |
-| 14.00    |  3. Python fundamentals                             | RB             |
+| 14.00    |  3. Python fundamentals                             | DC             |
 | 14.45    |  4. Structuring your code                           | DC             |
 |          |                                                     |                |
 |          |  _Day Two_                                          |                |
